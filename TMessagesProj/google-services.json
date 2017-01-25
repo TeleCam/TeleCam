@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208380336839",
+    "firebase_url": "https://telecom-39060.firebaseio.com",
+    "project_id": "telecom-39060",
+    "storage_bucket": "telecom-39060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208380336839:android:c9ecb29d225ab388",
+        "android_client_info": {
+          "package_name": "ir.irani.telecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208380336839-0l2qvb9j5kjjh2vgtnvqj13ejas1j8qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPagLccYzAWoCTq4gTROlbDO3TdCz6Pfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dpofpaddingicon">9dp</dimen>
+    <dimen name="acsdpad">5dp</dimen>
+    <dimen name="llkjh">5dp</dimen>
+</resources>
